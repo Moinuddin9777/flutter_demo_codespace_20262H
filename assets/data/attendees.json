@@ -2,7 +2,12 @@
   "attendees": [
     {
       "name": "Moin",
-      "imgUrl": "https://media.licdn.com/dms/image/v2/D5603AQGTuVa-52hIgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729520840180?e=1787184000&v=beta&t=QTF_16RiFSZDItSlnwoUQIj5BYnL-AIBK22PlDSeNmc",
+      "imgUrl": "https://media.licdn.com/dms/image/v2/D5603AQGTuVa-52hIgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729520840180?e=1787184000&v=beta&t=QTF_16RiFSZDItSlnwoUQIj5BYnL-AIBK22PlDSeNmc"
+    },
+    {
+
+      "name": "Santhoshini",
+      "imgUrl": " "
     }
   ]
 }
