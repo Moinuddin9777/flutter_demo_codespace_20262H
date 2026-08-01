@@ -2,7 +2,11 @@
   "attendees": [
     {
       "name": "Moin",
-      "imgUrl": "https://media.licdn.com/dms/image/v2/D5603AQGTuVa-52hIgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729520840180?e=1787184000&v=beta&t=QTF_16RiFSZDItSlnwoUQIj5BYnL-AIBK22PlDSeNmc",
+      "imgUrl": "https://media.licdn.com/dms/image/v2/D5603AQGTuVa-52hIgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729520840180?e=1787184000&v=beta&t=QTF_16RiFSZDItSlnwoUQIj5BYnL-AIBK22PlDSeNmc"
+    },
+    {
+      "name": " flutter",
+      "imgUrl": "https://www.google.com/imgres?q=flutter%20image&imgurl=https%3A%2F%2Fwww.mindinventory.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F10%2Fflutter-3.png&imgrefurl=https%3A%2F%2Fwww.mindinventory.com%2Fblog%2Fwhats-new-in-flutter-3%2F&docid=z9JsOHXJyUUeZM&tbnid=Y463q6eE5oeUJM&vet=12ahUKEwjuxsy3lP-VAxXbRmwGHchDNVcQnPAOegUIgwEQAA..i&w=750&h=500&hcb=2&ved=2ahUKEwjuxsy3lP-VAxXbRmwGHchDNVcQnPAOegUIgwEQAA"
     }
   ]
 }
